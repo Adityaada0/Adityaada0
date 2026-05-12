@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Awathare 👋</h1>
 
 <p align="center">
-  <b>Backend & Cloud Engineer · Django Developer · AWS Specialist</b><br/>
+  <b>Backend & Cloud Engineer · Django Developer · AWS & AI/ML Enthusiast</b><br/>
   B.Tech Computer Engineering · 2025 Passout · Nagpur, Maharashtra 🇮🇳
 </p>
 
@@ -25,7 +25,8 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Tech in Computer Engineering (2025)
-- ☁️ Passionate about **Backend Development, Cloud Infrastructure & DevOps**
+- ☁️ Passionate about **Backend Development, Cloud Infrastructure, DevOps & AI/ML Integration**
+- 🤖 Building AI-powered apps — Text-to-Image generation, LLM integrations & generative AI workflows
 - 🚀 Built production-grade apps on **AWS** serving **500+ monthly active users** at **99.9%+ uptime**
 - 🔐 Experienced with **secure REST APIs, Docker deployments, payment gateway integrations**
 - 📫 Reach me at **Adityaawathare29@gmail.com**
@@ -34,6 +35,12 @@
 ---
 
 ## 🛠️ Tech Stack
+
+**AI / ML**
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Languages & Frameworks**
 
