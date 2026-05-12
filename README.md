@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aditya Awathare 👋</h1>
+<h1 align="center">Hi, I'm Aditya 👋</h1>
 
 <p align="center">
   <b>Backend & Cloud Engineer · Django Developer · AWS & AI/ML Enthusiast</b><br/>
