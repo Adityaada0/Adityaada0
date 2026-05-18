@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/connect-with-aditya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://adityaada0.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
   <a href="mailto:Adityaawathare29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -30,7 +27,6 @@
 - 🚀 Built production-grade apps on **AWS** serving **500+ monthly active users** at **99.9%+ uptime**
 - 🔐 Experienced with **secure REST APIs, Docker deployments, payment gateway integrations**
 - 📫 Reach me at **Adityaawathare29@gmail.com**
-- 🌐 Check out my **[Portfolio](https://adityaada0.github.io/My-Portfolio/)**
 
 ---
 
